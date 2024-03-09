@@ -1,0 +1,28 @@
+>> DetectaR
+Posiciones de los "peaks" de la Onda R:
+posi =
+    80   271   454   644   825
+Valores de la Onda R en dichos "peaks":
+valo =
+   0.9748   0.9606   0.9300   1.0000   0.9351
+
+>> DetectaRconPAB2
+Posiciones de los "peaks" de la Onda R:
+posi =
+    80   271   454   644   825
+Valores de la Onda R en dichos "peaks":
+valo =
+   0.9748   0.9606   0.9300   1.0000   0.9351
+
+>> DetectaRconPAElip2
+bepa =
+   0.098566   0.184174   0.098566
+aepa =
+   1.0000   1.8927   0.9110
+Posiciones de los "peaks" de la Onda R:
+posi =
+    80   271   454   644   825
+Valores de la Onda R en dichos "peaks":
+valo =
+   0.9748   0.9606   0.9300   1.0000   0.9351
+
